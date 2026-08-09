@@ -1,6 +1,4 @@
-TASK 1:
 E20 Petrol Data Visualization
-
 Project Overview:
 This project focuses on visualizing an E20 Petrol dataset to understand patterns, trends, and relationships within the data.
 The project was completed as part of my **Code Alpha Data Analytics Internship**.

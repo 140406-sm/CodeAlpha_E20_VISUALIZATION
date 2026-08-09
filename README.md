@@ -44,6 +44,6 @@ The visualizations helped identify important patterns, distributions, trends, an
 These visual representations make the data easier to understand and support better interpretation of the dataset.
 
 The main analysis and visualization work is available in:
-`CodeAlpha_e20 Visualization.ipynb'
+'CodeAlpha_e20 Visualization.ipynb'
 
 

@@ -43,7 +43,7 @@ Key Insights:
 The visualizations helped identify important patterns, distributions, trends, and relationships within the E20 Petrol dataset.
 These visual representations make the data easier to understand and support better interpretation of the dataset.
 
-The main analysis and visualization work is available in:
-'CodeAlpha_e20 visualization.ipynb'
+The main analysis and visualization work is available in: "CodeAlpha_e20 visualization.ipynb"
+
 
 
